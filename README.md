@@ -34,4 +34,4 @@ python gui_status_runner8.py
 - Speaker
 
 ## 팀원
-- 이대명 이승익 이대명
+- 이대명 이승익 전인역
